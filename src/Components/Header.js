@@ -6,7 +6,7 @@ class Header extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const project = this.props.data.project;
+    const gallery = this.props.data.gallery;
     const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
@@ -49,15 +49,11 @@ class Header extends Component {
             </li>
 
             <li>
-              <a href="https://course.cyberlark.com.au/" target="_blank" rel="noreferrer">
-                Courses
+              <a href="https://photobyxyzoe.wordpress.com/" target="_blank" rel="noreferrer">
+                Photos
               </a>
             </li>
-            <li>
-              <a href="http://daigou.cyberlark.com.au/" target="_blank" rel="noreferrer">
-                Shop
-              </a>
-            </li>
+
           </ul>
         </nav>
 
@@ -72,8 +68,8 @@ class Header extends Component {
             <hr />
             <Fade bottom duration={2000}>
               <ul className="social">
-                <a href={project} className="button btn project-btn">
-                  <i className="fa fa-book"></i>Project
+                <a href={gallery} className="button btn gallery-btn">
+                  <i className="fa fa-camera"></i>Gallery
                 </a>
                 <a href={github} className="button btn github-btn">
                   <i className="fa fa-github"></i>Github
