@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name":"ZOE",
+    "description":"Passionate about learning technology and sharing knowledge",
+    "image":"profile.png",
+    "bio":"My name is Zoe, a recent graduate from the University of Sydney with a passion for software engineering and photography. I completed my Master's degree in Information Technology in 2024, specializing in software engineering. Since then, I've been exploring the vibrant tech scene in Sydney, always on the lookout for innovative projects and new learning opportunities. ",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "xueyingzou.au@gamil.com",
+    "phone": "(04) 9083 4472",
+    "github":"https://github.com/cdrrxyz",
+    "gallery":"https://photobyxyzoe.wordpress.com/",
+    "address":{
+      "line1":"City: Sydney",
+      "line2":"Country: Australia"
+    },
+    
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ikuramen_/?igsh=MTQxM2ptZzIyOHpwdw%3D%3D&utm_source=qr",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/cdrrxyz",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/xueying-zou-24363b2b5/",
+        "className":"fa fa-linkedin-square"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"University of Sydney",
+        "degree":"Master of Information Technology in Software Engineering",
+        "graduated":"2023 - 2024",
+        "description":""
+      },
+      {
+        "school":"University of Technology Sydney",
+        "degree":"Master of Information Technology in Software Development",
+        "graduated":"2021 - 2022 (Transferred to University of Sydney)",
+        "description":""
+      },
+      {
+        "school":"Shanghai University of Traditional Chinese Medicine",
+        "degree":"Bachelor of Science in Traditional Chinese Pharmacology",
+        "graduated":"2016 - 2020",
+        "description":""
+      }
+    ],
+    "skills":[
+      {"name":"Programming Language (Java, JavaScript, Python, Swift)",
+       "level":"85%"
+      },
+      {
+        "name":"Backend Development (Spring Boot, RESTful API, Laravel)",
+        "level":"75%"
+      },
+      {
+        "name":"Frontend Development (HTML, CSS, React)",
+        "level":"85%"
+      },
+      {
+        "name":"Database (MySQL, PostgreSQL)",
+        "level":"90%" 
+      },
+      {
+        "name":"Tools (AWS, Git, Figma, IntelliJ, VSCode, Xcode, MS Office)",
+        "level":"90%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"80%"
+      },
+      {
+        "name":"Passion & Eager to Learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Project",
+        "description": "Mobile Phone Repair Service Platform 2.0",
+        "category": "Project",
+        "image":"01.jpg",
+        "url":"https://www.mrxpress.com.au/"
+      },
+      {
+        "title":"Project",
+        "description": "Social Health and Fitness Web Application",
+        "category": "Project",
+        "image":"02.png",
+        "url":"https://github.com/cdrrxyz/fitness-web-app.git"
+      },
+      {
+        "title":"Project",
+        "description": "Meow Pop Game",
+        "category": "Project",
+        "image":"03.png",
+        "url":"https://github.com/cdrrxyz/meow-pop-game"
+      },
+      {
+        "title":"Project",
+        "description":"XXLChess",
+        "category":"Project",
+        "image":"04.png",
+        "url":"https://github.com/cdrrxyz/xxlchess"
+      }
+      
+    ]
+  }
+}
