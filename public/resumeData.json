@@ -88,35 +88,35 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Project",
+        "title":"Web",
         "description": "Mobile Phone Repair Service Platform 2.0",
         "category": "Project",
         "image":"01.jpg",
         "url":"https://www.mrxpress.com.au/"
       },
       {
-        "title":"Project",
+        "title":"Web",
         "description": "Social Health and Fitness Web Application",
         "category": "Project",
         "image":"02.png",
         "url":"https://github.com/cdrrxyz/fitness-web-app.git"
       },
       {
-        "title":"Project",
-        "description": "Meow Pop Game",
+        "title":"Game",
+        "description": "Meow Pop",
         "category": "Project",
         "image":"03.png",
         "url":"https://github.com/cdrrxyz/meow-pop-game"
       },
       {
-        "title":"Project",
+        "title":"Game",
         "description":"XXLChess",
         "category":"Project",
         "image":"04.png",
         "url":"https://github.com/cdrrxyz/xxlchess"
       },
       {
-        "title":"Project",
+        "title":"Game",
         "description":"Fakemon",
         "category":"Project",
         "image":"05.png",
