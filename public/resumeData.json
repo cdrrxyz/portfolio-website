@@ -114,6 +114,13 @@
         "category":"Project",
         "image":"04.png",
         "url":"https://github.com/cdrrxyz/xxlchess"
+      },
+      {
+        "title":"Project",
+        "description":"Fakemon",
+        "category":"Project",
+        "image":"05.png",
+        "url":"https://github.com/cdrrxyz/fakemon"
       }
       
     ]
