@@ -121,8 +121,14 @@
         "category":"Project",
         "image":"05.png",
         "url":"https://github.com/cdrrxyz/fakemon"
+      },
+      {
+        "title":"App",
+        "description":"Calculator",
+        "category":"Project",
+        "image":"06.png",
+        "url":"https://github.com/cdrrxyz/calculator"
       }
-      
     ]
   }
 }
